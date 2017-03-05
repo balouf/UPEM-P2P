@@ -1,3 +1,6 @@
 # Cours Applications Pair-à-Pair, université Marne-la-Vallée
 
-Documents de cours.
+Ce répertoire contient les documents de cours suivants:
+- *Applications_P2P_Slides.pdf* : les notes de cours (édition 2016-2017)
+- *DHT-TP.ipynb* : TP sur la DHT Chord
+- *2016_exam.pdf* : sujet de l'examen 2015-2016
